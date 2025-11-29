@@ -7,7 +7,7 @@ Convert between WUX / WUD / WUA
 
 Batch file processing
 
-Decrypt WUD/WUX/WUA (requires keys)
+Decrypt WUD (requires keys)
 
 Progress bar + live output
 
