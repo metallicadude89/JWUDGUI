@@ -13,8 +13,4 @@ Progress bar + live output
 
 Auto-downloads JWUDTool.jar
 
-Auto-downloads wud2app.exe
-
-Allows extraction into WUP Installable folder.
-
 Optional flags: -noVerify, -dev, -overwrite
